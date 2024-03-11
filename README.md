@@ -1,5 +1,7 @@
-### Hi there 👋
-
+- Hi there, I am Shivank 👋
+- 🔭 I’m currently learning and working in the field of Deep Learning, Specifically Computer Vision, Generative Models (LLMs and Diffusion) , AI Security and 3D Modelling
+- 👯 I’m looking to collaborate on any Deep Learning Based Research Project
+- 📫 You could reach me at my mail ID: shivank_g@mfs.iitr.ac.in
 <!--
 **shivank21/shivank21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
